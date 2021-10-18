@@ -1,0 +1,11 @@
+Characteristic value was written successfully
+Notification handle = 0x000e value: f9 8e fb 89 01 00 19 01 
+Notification handle = 0x000e value: 37 8f 00 8a 01 00 19 01 
+Notification handle = 0x000e value: 76 8f 00 8a 01 00 19 01 
+Notification handle = 0x000e value: b4 8f ff 89 01 00 19 01 
+Notification handle = 0x000e value: f3 8f fc 89 01 00 18 01 
+Notification handle = 0x000e value: 31 90 01 8a 01 00 18 01 
+Notification handle = 0x000e value: 70 90 00 8a 01 00 18 01 
+Notification handle = 0x000e value: ae 90 fd 89 01 00 18 01 
+Notification handle = 0x000e value: ed 90 00 8a 01 00 18 01 
+Notification handle = 0x000e value: 2b 91 fd 89 01 00 18 01 
